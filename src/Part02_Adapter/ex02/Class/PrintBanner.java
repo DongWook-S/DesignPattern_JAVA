@@ -1,6 +1,6 @@
-package Adapter.ex02.Class;
+package Part02_Adapter.ex02.Class;
 
-import Adapter.ex01.Class.Banner;
+import Part02_Adapter.ex01.Class.Banner;
 
 public class PrintBanner extends Print {
     private Banner banner;

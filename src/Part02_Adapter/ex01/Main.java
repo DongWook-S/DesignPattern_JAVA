@@ -1,7 +1,7 @@
-package Adapter.ex01;
+package Part02_Adapter.ex01;
 
-import Adapter.ex01.Class.PrintBanner;
-import Adapter.ex01.Interface.Print;
+import Part02_Adapter.ex01.Class.PrintBanner;
+import Part02_Adapter.ex01.Interface.Print;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Adapter.ex01.Class;
+package Part02_Adapter.ex01.Class;
 
-import Adapter.ex01.Interface.Print;
+import Part02_Adapter.ex01.Interface.Print;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string) {

@@ -1,4 +1,4 @@
-package Iterator.Class;
+package Part01_Iterator.Class;
 
 /*
  *  책을 나타내는 클래스

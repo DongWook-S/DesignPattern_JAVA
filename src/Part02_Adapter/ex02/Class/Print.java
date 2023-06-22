@@ -1,4 +1,4 @@
-package Adapter.ex02.Class;
+package Part02_Adapter.ex02.Class;
 
 public abstract class Print {
     public abstract void printWeak();

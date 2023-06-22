@@ -1,4 +1,4 @@
-package Adapter.ex01.Interface;
+package Part02_Adapter.ex01.Interface;
 
 public interface Print {
     public abstract void printWeak();

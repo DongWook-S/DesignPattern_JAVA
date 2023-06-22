@@ -1,4 +1,4 @@
-package Iterator.Class;
+package Part01_Iterator.Class;
 
 import java.util.Iterator;
 

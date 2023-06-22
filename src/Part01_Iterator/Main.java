@@ -1,7 +1,7 @@
-package Iterator;
+package Part01_Iterator;
 
-import Iterator.Class.Book;
-import Iterator.Class.BookShelf;
+import Part01_Iterator.Class.Book;
+import Part01_Iterator.Class.BookShelf;
 
 import java.util.Iterator;
 
