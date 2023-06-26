@@ -1,4 +1,4 @@
-package Part04_FactoryMethod.framework;
+package Part04_FactoryMethod.Framework;
 
 /*
  *  제품을 표현하는 클래스

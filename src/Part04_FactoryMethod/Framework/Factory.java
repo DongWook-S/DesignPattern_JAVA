@@ -1,4 +1,4 @@
-package Part04_FactoryMethod.framework;
+package Part04_FactoryMethod.Framework;
 
 /*
  *  Template Method 패턴 사용
