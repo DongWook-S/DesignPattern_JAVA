@@ -1,7 +1,7 @@
 package Part04_FactoryMethod.Class;
 
-import Part04_FactoryMethod.Framework.Factory;
-import Part04_FactoryMethod.Framework.Product;
+import Part04_FactoryMethod.framework.Factory;
+import Part04_FactoryMethod.framework.Product;
 
 public class IDCardFactory extends Factory {
     @Override

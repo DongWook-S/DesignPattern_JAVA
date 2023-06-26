@@ -1,8 +1,8 @@
 package Part04_FactoryMethod;
 
 import Part04_FactoryMethod.Class.IDCardFactory;
-import Part04_FactoryMethod.Framework.Factory;
-import Part04_FactoryMethod.Framework.Product;
+import Part04_FactoryMethod.framework.Factory;
+import Part04_FactoryMethod.framework.Product;
 
 public class Main {
     public static void main(String[] args) {
