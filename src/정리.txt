@@ -121,3 +121,6 @@ Visitor[방문자] 패턴
 
 Chain of Responsibility[책임 연쇄] 패턴
 - 책임을 떠넘긴다.
+
+Facade 패턴
+- 단순한 창구를 만든다.
