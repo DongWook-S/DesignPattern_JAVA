@@ -1,6 +1,6 @@
 package Part11_Composite.Class;
 
-public abstract class Entry {
+abstract class Entry {
     // 이름을 얻는다.
     public abstract String getName();
 
